@@ -18,10 +18,9 @@ This ETL Pipeline extracts Bitcoin data(2012 - 2025) from CSV, executed data cle
 
 #### How to Run:
 
-1. Clone this repo
-2. Open the notebook in Google Colab
-3. Set your MongoDB Atlas connection string
-4. Run the ETL pipeline
+1. Download and Open the notebook in Google Colab
+2. Set your MongoDB Atlas connection string
+3. Run the ETL pipeline
 
 #### Original Data File:
 The original dataset was downloaded from Kaggle which can be found on the link below!
